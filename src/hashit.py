@@ -2,9 +2,9 @@
 ##
 print('Your settings can be retrieved from Utility -> System Setting -> System Status\n')
 
-scope_id = "xxxx-xxxx-xxxx-xxxx"
-serial_no = "SDS2xxxxxxxxxx"
-model_no = "SDS2104X+"
+scope_id = "e5f6-ca3d-33d2-b94b"
+serial_no = "SDS5xCBQ3R0163"
+model_no = "SDS5000X"
 software_version = "1.3.7R5"
 uboot_versio = "5.0"
 fpga_version = "2020-04-26"
